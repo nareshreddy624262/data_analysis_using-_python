@@ -19,4 +19,7 @@ this is the simple data understanding this files containe pandas ,numpy , matplo
 
 --> numpy 
 --> pandas 
+--> seaborn
+--> matplotlib
+--> sklean
 
